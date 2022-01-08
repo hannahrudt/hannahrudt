@@ -21,6 +21,9 @@
 
 <!-- All icons from https://devicon.dev/ -->
 
+### Contact me
+#### hannahrudt@gmail.com
+#### [My LinkedIn](https://www.linkedin.com/in/hannahrudt/)
 
 
 
