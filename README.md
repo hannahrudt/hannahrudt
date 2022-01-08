@@ -1,8 +1,6 @@
 ## Welcome! My name is Hannah Rudt (she/her) 👋
 ### Check out my projects in other pinned repos 
 
-----
-
 ### I am 
 - An undergraduate student at Cornell University
     -   Major in Information Science, minor in Community Food Systems
