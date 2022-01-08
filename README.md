@@ -1,7 +1,9 @@
 ## Welcome! My name is Hannah Rudt (she/her) 👋
-<p> Check out my projects in other pinned repos <p>
+### Check out my projects in other pinned repos 
 
-### I am ...
+----
+
+### I am 
 - An undergraduate student at Cornell University
     -   Major in Information Science, minor in Community Food Systems
 - Passionate about food, nutrition, and health equity
@@ -10,7 +12,7 @@
 - A (slow) triathlete 🏊 🚴 🏃‍♀️
 
 ### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=30 height=30 alt="html5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=30 height=30 alt="css3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=30 height=30 alt="html5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=30 height=30 alt="css3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=30 height=30 alt="javascript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width=30 height=30 alt="jupyter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=30 height=30 alt="pandas"/>
@@ -18,6 +20,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width=30 height=30 alt="premiere"/>
 
 <!-- All icons from https://devicon.dev/ -->
+
+
 
 
 
