@@ -23,6 +23,7 @@
 
 ### Contact me
 __hannahrudt@gmail.com__
+
 __[My LinkedIn](https://www.linkedin.com/in/hannahrudt/)__
 
 
