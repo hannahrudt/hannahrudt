@@ -5,7 +5,7 @@
 - An undergraduate student at Cornell University
     -   Major in Information Science, minor in Community Food Systems
 - Passionate about public health and education equity
-- Interested in product management
+- Looking for full-time roles in data analytics and product management
 - A native New Yorker
 - A (slow) triathlete 🏊 🚴 🏃‍♀️
 
