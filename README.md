@@ -4,7 +4,7 @@
 ### I am 
 - An undergraduate student at Cornell University
     -   Major in Information Science, minor in Community Food Systems
-- Passionate about public health and education equity
+- Excited about data storytelling and communicating data in accessible ways
 - Looking for full-time roles in data analytics and product management
 - A native New Yorker
 - A (slow) triathlete 🏊 🚴 🏃‍♀️
