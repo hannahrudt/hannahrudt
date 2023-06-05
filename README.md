@@ -2,10 +2,9 @@
 ### Check out my projects in other pinned repos 
 
 ### I am 
-- An undergraduate student at Cornell University
-    -   Major in Information Science, minor in Community Food Systems
+- An recent graduate of Cornell University
+    -   B.S. in Information Science, minor in Community Food Systems
 - Excited about data storytelling and communicating data in accessible ways
-- Looking for full-time roles in data analytics and product management
 - A native New Yorker
 - A (slow) triathlete 🏊 🚴 🏃‍♀️
 
@@ -21,22 +20,3 @@ __hannahrudt@gmail.com__
 __[My LinkedIn](https://www.linkedin.com/in/hannahrudt/)__
 
 
-
-
-
-
-
-<!--
-**hgr26/hgr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
